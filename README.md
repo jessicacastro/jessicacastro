@@ -7,4 +7,4 @@
 <p>🌱 I’m currently learning React, React Native, MongoDB, SOLID, Node.js and others.</p>
 <p>🌱 Some skills I developed in other jobs: AngularJS, Angular 2+, Firebase, Typescript, SQL, NoSQL, Ionic, Github, Scrum, BigQuery, SPA (Single Page Application), PWA (Progressive Web App), HTML, CSS, Spring MVC, Java, Javascript</p> 
 <p>⚡ Fun fact: My first job was at IBM as a young apprentice, there i decided to go to the IT area and years later i returned as an intern, being promoted 6 months later to being hired.</p>
-<p>:memo: I'm 24 years old, i'm passionate about technology and games, i'm proactive and a fan of fast deliveries. I love working with clients and seeing my work in production. I work as a PJ and i aim to specialize more and more and one day go to Canada.</p>
+<p>:memo: I'm 25 years old, i'm passionate about technology and games, i'm proactive and a fan of fast deliveries. I love working with clients and seeing my work in production. I work wit as a Flex CLT i aim to specialize more and more and one day go to Canada or Portugal.</p>
