@@ -1,7 +1,7 @@
 # Jessica Castro :woman_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Castro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacastros/)](https://www.linkedin.com/in/jessicacastros/) 
-[![Gmail Badge](https://img.shields.io/badge/jecastrops@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jecastrops@gmail.com)](mailto:jecastrops@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/jessica.castros@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessica.castros@outlook.com)](mailto:jessica.castros@outlook.com)
 
 <p>🔭 I’m currently working on Storm Group, developing a video streaming platform as Fullstack Developer, level 'Pleno' with React, GraphQL, Node.js, React Native and others.</p>
 <p>🌱 I’m currently learning React, React Native, MongoDB, SOLID, Node.js and others.</p>
