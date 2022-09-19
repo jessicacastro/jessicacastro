@@ -7,7 +7,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   age: 25,
+   age: 26,
    state: "Rio de Janeiro",
    jobRole: "Web Developer" || "Full-Stack Developer",
    company: "Storm Group",
