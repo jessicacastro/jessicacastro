@@ -7,11 +7,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   age: 26,
+   age: 27,
    state: "Rio de Janeiro",
-   jobRole: "Web Developer" || "Full-Stack Developer",
-   company: "Storm Group",
-   allocatedIn: "Globoplay",
+   jobRole: "Sênior Web Developer" || "Full-Stack Developer Sênior",
+   company: "Play9",
    technologiesUsedInWork: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis"],
    favoriteApiClient: "Insomnia",
    challenge: "I'm studying React Native, Java and doing a lot of research to launch a youtube channel about programming",
