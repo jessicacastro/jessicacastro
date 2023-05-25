@@ -9,7 +9,7 @@ const aboutMe = {
    pronouns: "she" | "her",
    age: 27,
    state: "Rio de Janeiro",
-   jobRole: "Sênior Web Developer" || "Full-Stack Developer Sênior",
+   jobRole: "Senior Web Developer" || "Full-Stack Developer Senior" || "Senior Software Engineer",
    company: "Play9",
    technologiesUsedInWork: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis"],
    favoriteApiClient: "Insomnia",
