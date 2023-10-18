@@ -2,7 +2,14 @@
   <img src="https://i.ibb.co/TW7J1kC/banner-Github.png" alt="banner-Github" width="600" border="0">
 </p>
 
-<h2>✏️ &nbsp;About Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jessicacastros/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://twitter.com/dev_jessicastro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="mailto:jessica.castros@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jessicacastro.dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<h2>about me ✏️</h2>
 
 ```javascript
 const aboutMe = {
@@ -19,7 +26,7 @@ const aboutMe = {
 };
 ```
 
-<h2>👩🏾‍💻 &nbsp;Things I code with</h2>
+<h2>things i code with (not updated)👩🏾‍💻</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
@@ -40,21 +47,11 @@ const aboutMe = {
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/jessicacastros/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/dev_jessicastro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:jessica.castros@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/jessicacastro.dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-
-<h2>📈 &nbsp;Some Github Stats</h2>
+<h2>some github stats 📈</h2>
 <span align="left">
   
 ![Jessica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicacastro&show_icons=true&hide_border=true&bg_color=6f12ff&title_color=F43F91&icon_color=F43F91&text_color=FFFFFF)
-  
+
 </span>
 <span align="right">
   
