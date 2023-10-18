@@ -11,9 +11,10 @@ const aboutMe = {
    state: "Rio de Janeiro",
    jobRole: "Senior Web Developer" || "Full-Stack Developer Senior" || "Senior Software Engineer",
    company: "Play9",
-   technologiesUsedInWork: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis"],
+   technologiesIWorkedOn: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
    favoriteApiClient: "Insomnia",
-   challenge: "I'm studying React Native, Java and doing a lot of research to launch a youtube channel about programming",
+   challenge: "A lot of research to launch a youtube channel about programming",
+   studying: ["Go", "Docker", "NestJS", "AWS", "Apache Kafka", "gRPC"]
    hobbies: ["Study", "Play video game", "Play futsal", "Watch series"]
 };
 ```
