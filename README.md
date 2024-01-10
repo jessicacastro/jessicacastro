@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://i.ibb.co/TW7J1kC/banner-Github.png" alt="banner-Github" width="600" border="0"> -->
-  <img src="https://i.ibb.co/TW7J1kC/banner-Github.png" alt="banner-Github" width="600" border="0">
+ <img src="https://i.ibb.co/HT4qGb4/banner.png" alt="banner" border="0" />
 </p>
 
 <p align="center">
