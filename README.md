@@ -22,7 +22,7 @@ const aboutMe = {
    technologiesIWorkedOn: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
    favoriteApiClient: "Insomnia",
    challenge: "A lot of research to launch a youtube channel about programming",
-   studying: ["Go", "Docker", "NestJS", "AWS", "Apache Kafka", "gRPC"]
+   studying: ["Go", "Docker", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"]
    hobbies: ["Study", "Play video game", "Play futsal", "Watch series"]
 };
 ```
