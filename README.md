@@ -19,11 +19,14 @@ const aboutMe = {
    age: 28,
    state: "Rio de Janeiro",
    pronouns: "she" | "her",
-   technologiesIWorkedOn: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
-   favoriteApiClient: "Insomnia",
-   favoriteDBClient: "Beekeeper",
-   challenge: "A lot of research to launch a youtube channel about programming",
-   studying: ["Go", "Docker", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"],
+   techs: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
+   favoriteApplications: ["Insomnia", "Beekeeper", "Notion", "Gitlab", "Docker"],
+   passedChallenges: [
+    "Participate on a Slack Bot project with AI using ChatGPT and Python on a hackaton",
+    "Participate on Fight Together, an ESG application to encourage reporting of litter, potholes, fires, among other issues. This was my final work for college, we reached the finals in the competition. ",
+    "Participate of 'Quarentena Solidária', an application to encourage people to help those at risk during the pandemic"
+   ],
+   studying: ["Go", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"],
    hobbies: ["Study", "Play video game", "Play futsal", "Watch series"]
 };
 ```
