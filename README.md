@@ -16,6 +16,8 @@
 const aboutMe = {
    role: "Senior Software Engineer",
    company: "iFood",
+   academicEducation: "[FIAP] Sistemas para Internet",
+   academicEducationStatus: "CONCLUDED",
    age: 28,
    state: "Rio de Janeiro",
    pronouns: "she" | "her",
