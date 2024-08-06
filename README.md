@@ -14,7 +14,7 @@
 
 ```javascript
 const aboutMe = {
-   jobRole: "Senior Software Engineer",
+   role: "Senior Software Engineer",
    company: "iFood",
    age: 28,
    state: "Rio de Janeiro",
