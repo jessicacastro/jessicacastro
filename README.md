@@ -14,13 +14,14 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "she" | "her",
+   jobRole: "Senior Software Engineer",
+   company: "iFood",
    age: 28,
    state: "Rio de Janeiro",
-   jobRole: "Senior Web Developer" || "Full-Stack Developer Senior" || "Senior Software Engineer",
-   company: "iFood",
+   pronouns: "she" | "her",
    technologiesIWorkedOn: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
    favoriteApiClient: "Insomnia",
+   favoriteDBClient: "Beekeeper",
    challenge: "A lot of research to launch a youtube channel about programming",
    studying: ["Go", "Docker", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"],
    hobbies: ["Study", "Play video game", "Play futsal", "Watch series"]
