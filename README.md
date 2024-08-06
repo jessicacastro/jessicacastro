@@ -15,10 +15,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   age: 27,
+   age: 28,
    state: "Rio de Janeiro",
    jobRole: "Senior Web Developer" || "Full-Stack Developer Senior" || "Senior Software Engineer",
-   company: "Play9",
+   company: "iFood",
    technologiesIWorkedOn: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
    favoriteApiClient: "Insomnia",
    challenge: "A lot of research to launch a youtube channel about programming",
