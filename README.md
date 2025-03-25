@@ -18,7 +18,7 @@ const aboutMe = {
    company: "iFood",
    academicEducation: "[FIAP] Sistemas para Internet",
    academicEducationStatus: "CONCLUDED",
-   age: 28,
+   age: 29,
    state: "Rio de Janeiro",
    pronouns: "she" | "her",
    techs: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
@@ -28,7 +28,7 @@ const aboutMe = {
     "Participate on Fight Together, an ESG application to encourage reporting of litter, potholes, fires, among other issues. This was my final work for college, we reached the finals in the competition. ",
     "Participate of 'Quarentena Solidária', an application to encourage people to help those at risk during the pandemic"
    ],
-   studying: ["Go", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"],
+   studying: ["Go", "PHP", "Python", "NestJS", "AWS", "Apache Kafka", "gRPC", "Kubernetes", "Ruby on Rails", "Java"],
    hobbies: ["Study", "Play video game", "Play futsal", "Watch series"]
 };
 ```
