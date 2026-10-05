@@ -14,11 +14,12 @@
 
 ```javascript
 const aboutMe = {
-   role: "Senior Software Engineer",
-   company: "iFood",
+   standardPosition: "Senior Software Engineer",
+   currentPosition: "Senior Support Engineer"
+   company: "Alternative Payments",
    academicEducation: "[FIAP] Sistemas para Internet",
    academicEducationStatus: "CONCLUDED",
-   age: 29,
+   age: 30,
    state: "Rio de Janeiro",
    pronouns: "she" | "her",
    techs: ["NodeJS", "ReactJS", "GraphQL", "Mocha", "Jest", "Docker", "Redis", "Next.JS", "Google Cloud", "Firebase", "Angular"],
