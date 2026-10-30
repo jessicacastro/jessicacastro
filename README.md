@@ -15,7 +15,7 @@
 ```javascript
 const aboutMe = {
    standardPosition: "Senior Software Engineer",
-   currentPosition: "Senior Support Engineer"
+   currentPosition: "Senior Support Engineer",
    company: "Alternative Payments",
    academicEducation: "[FIAP] Sistemas para Internet",
    academicEducationStatus: "CONCLUDED",
